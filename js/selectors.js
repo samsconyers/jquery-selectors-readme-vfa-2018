@@ -1,2 +1,2 @@
 // declare your functions here...
-$(paragrapghSelector)
+function paragraphSelector
